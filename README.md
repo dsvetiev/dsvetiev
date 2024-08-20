@@ -1,4 +1,5 @@
-![coding-skills-loading-dk68v8z0hevjpuiv](https://github.com/user-attachments/assets/d2032928-ffa8-4343-8f4c-f22a598267de)
+<img src="https://github.com/user-attachments/assets/d2032928-ffa8-4343-8f4c-f22a598267de" alt="coding-skills-loading" width="50%" />
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dilyan Svetiev
 ======================================================================================================================================
 
