@@ -1,8 +1,11 @@
+![coding-skills-loading-dk68v8z0hevjpuiv](https://github.com/user-attachments/assets/d2032928-ffa8-4343-8f4c-f22a598267de)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dilyan Svetiev
 ======================================================================================================================================
 
 Web Developer
 -------------
+
+
 
 I am a dedicated web developer at the beginning of an exciting journey in the world of coding. With a strong foundation in engineering and solid problem-solving skills, I began my path into software development after a brief encounter with coding. This experience ignited a deep interest that drives me to push my boundaries, constantly seeking to reach new levels of understanding and proficiency in coding. I am committed to the challenging yet rewarding path of continuous learning and growth, determined to excel in this ever-evolving field.
 
