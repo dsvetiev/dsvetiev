@@ -12,8 +12,8 @@ I am a dedicated web developer at the beginning of an exciting journey in the wo
 
 * 🌍  I'm based in Sofia
 * ✉️  You can contact me at [dsvetiev@gmail.com](mailto:dsvetiev@gmail.com)
-* 🚀  I'm currently working on [Dev's Gambit](http://github.com/dsvetiev/devs-gambit)
-* 🧠  I'm learning Angular
+* 🚀  I'm currently working on [Trade404](https://github.com/orgs/Trade404/repositories)
+* 🧠  I'm learning Spring Boot
 
 ### Skills
 
